@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /profile/
+Disallow: /orders/
+Disallow: /payment/
+
+# Sitemap
+Sitemap: https://pcbtasarim.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10 
